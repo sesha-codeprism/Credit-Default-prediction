@@ -7,11 +7,14 @@ The dataset comes from UC Irvine Machine Learning datasets. All monetary amounts
 
 ----To run the Program:
 1) Clone or download the program
-2) Run or Execute run.sh file using cmd. You might need tools like Git for Windows, which I used for this project
-3) Enter details in the opened webpage and click on submit
-4) When page loads, the chance of defaulting is given along with class of default probability (low, medium, high)
+2) Extract RandomForestModel.7z and place the .sav file in both models and notebooks(safer way. Creates backup incase .sav is corrupted)
+3) Run or Execute run.sh file using cmd. You might need tools like Git for Windows, which I used for this project
+4) Enter details in the opened webpage and click on submit
+5) When page loads, the chance of defaulting is given along with class of default probability (low, medium, high)
 
-** If on running you get Internal Server/Service error, it might be due to missing out on values or webpage template being inaccessible. Redownload the code to solve that problem
+** Models couldn't be uploaded due to size limits. They have been compressed and uploaded so ascertain availability. So do extract and place the models in models folder. 
+
+** If on running you get Internal Server/Service error, it might be due to missing out on values, so check back and fill them up or also due to webpage template being inaccessible. Redownload the code to solve that problem
 
 ----Credits:
 1) Applied AI Course for Machine Learning Course
